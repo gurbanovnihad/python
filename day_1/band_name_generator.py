@@ -5,5 +5,5 @@
 print("Welcome to the Band Name Generator\n")
 city = input("What's the name of the city you grew up in? ")
 pet = input("What's your pet's name? ")
-print("\nYour band name could be {} {}.".format(city, pet))
+print("\nYour band name could be '{} {}'.".format(city, pet))
 
